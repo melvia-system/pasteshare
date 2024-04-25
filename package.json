@@ -1,0 +1,9 @@
+{
+  "name": "pasteshare",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
