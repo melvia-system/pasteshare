@@ -1,6 +1,8 @@
 # 📚 pasteshare
 a simple app to share your text snippets, get a anonymous link and share it with your friends easily.
 
+![pasteshare](./assets/preview.png)
+
 ## Features
 - Share your text snippets with your friends
 - Get a anonymous link to share
